@@ -30,3 +30,8 @@ reports/target-20251025-184046.json
 -
 pkg install jq -y
 jq . reports/target.ir-20251025-184046.json
+---
+
+id My Telegram :@Promethazineh
+
+    thank You
