@@ -23,11 +23,3 @@ pkg install jq -y
 git clone https://github.com/HosseinTroll/Troll-Scan-Pro.git
 cd Troll-Scan-Pro
 python Troll-Scan.py --url target.com --deep
------------
-  [ وقتی خروجی به این شکل نمایش داده شد :
-reports/target-20251025-184046.json
- یعنی گزارش آماده دریافت است ✅️
--
-نمایش گزارش 👇 مثال: ادرسی که به شما داده است را بچسبانید
-pkg install jq -y
-jq . reports/target.ir-20251025-184046.json
