@@ -50,4 +50,4 @@ def get_html_metadata(domain):
         }
         return {"title": title, "meta": metas}
     except Exception as e:
-        return {"error": str(e
+        return {"error": str(e}
